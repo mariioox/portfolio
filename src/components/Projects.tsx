@@ -24,7 +24,7 @@ const projects = [
     ],
     tech: ["React", "TypeScript", "Tailwind", "Lucide"],
     git: "https://github.com/mariioox/portfolio",
-    live: "#",
+    live: "https://portfolio-five-beige-i159o420uo.vercel.app/",
   },
   {
     title: "Weather API",
@@ -36,7 +36,7 @@ const projects = [
     ],
     tech: ["React", "JavaScript", "REST API", "CSS3"],
     git: "https://github.com/mariioox/weatherapp",
-    live: "#",
+    live: "https://weatherapp-ebon-mu.vercel.app/",
   },
   {
     title: "Expense Tracker",
@@ -48,7 +48,7 @@ const projects = [
     ],
     tech: ["React", "TypeScript", "Local Storage"],
     git: "https://github.com/mariioox/expensetracker",
-    live: "#",
+    live: "https://expensetracker-six-rho.vercel.app/",
   },
 ];
 
