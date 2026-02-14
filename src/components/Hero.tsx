@@ -10,7 +10,7 @@ const Hero: React.FC = () => {
   return (
     <section className="hero-section hero-animate">
       <div className="flex-1 space-y-5">
-        <p className="text-xs tracking-[0.4em] uppercase opacity-60">
+        <p className="text-xs tracking-[0.4em] uppercase opacity-60 pt-7">
           // Hello_World
         </p>
 
