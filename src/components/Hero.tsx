@@ -9,19 +9,20 @@ const Hero: React.FC = () => {
 
   return (
     <section className="hero-section hero-animate">
-      <div className="flex-1 space-y-6">
+      <div className="flex-1 space-y-5">
         <p className="text-xs tracking-[0.4em] uppercase opacity-60">
           // Hello_World
         </p>
 
-        <h1 className="text-5xl md:text-7xl font-bold uppercase tracking-tighter leading-none">
+        <h1 className="md:text-6xl font-bold uppercase tracking-tighter leading-none">
           I'm Jeffery.
         </h1>
 
         <p className="text-lg md:text-xl max-w-xl opacity-90 leading-relaxed">
-          A Junior Frontend Engineer. I build fast, real-time web applications
-          with React, TypeScript, and Supabase—focused on performance,
-          usability, and clean architecture.
+          A Frontend Engineer with a background in Electrical Engineering. I
+          used to build circuits that could blow a fuse; now I build React apps
+          that won’t crash a browser. I specialize in fast, real-time web
+          systems where logic is clean and performance is non-negotiable.
         </p>
 
         {/* Action Buttons */}

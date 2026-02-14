@@ -2,7 +2,7 @@ import React from "react";
 
 const SkillsExperience: React.FC = () => {
   return (
-    <section id="about" className="info-section">
+    <section id="skills" className="info-section">
       {/* Left Column: Skillset */}
       <div>
         <h2 className="section-label">// Technical_Skillset</h2>
